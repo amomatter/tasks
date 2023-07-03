@@ -1,0 +1,6 @@
+*************  task scheduler **************************
+https://devarticles.in/laravel-8-9-cron-job-task-scheduling-tutorial-with-examples/
+php artisan schedule:work
+***********************************************************************************
+
+
